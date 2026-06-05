@@ -18,7 +18,7 @@ A modern, production-ready AI chatbot built with Flutter that integrates with **
 
 ## 📸 Screenshots
 
-![UI](assets/Screenshot 2026-06-05 144659.png)
+![UI]("assets/Screenshot 2026-06-05 144659.png")
 
 ## 🚀 Tech Stack
 
